@@ -1,0 +1,12 @@
+.add-new-training{
+    margin-left: 10px;
+}
+.add-new-training:hover{
+    background-color:#fff
+}
+.btn-danger{
+    border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    margin-left: 5px;
+}
